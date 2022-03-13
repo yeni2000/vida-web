@@ -1,0 +1,8 @@
+{
+  "name": "VidaWeb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d44b7bdb"
+}
